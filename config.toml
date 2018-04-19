@@ -6,4 +6,4 @@ theme = "sawmill"
 [Author]
     name = "DJ Walker"
 [Params]
-    logo = "logo.svg"
+    logo = "/logo.svg"
