@@ -1,4 +1,9 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Sawmill"
 theme = "sawmill"
+
+[Author]
+    name = "DJ Walker"
+[Params]
+    logo = "logo.svg"
