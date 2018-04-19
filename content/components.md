@@ -1,6 +1,6 @@
 +++
 date = "2018-04-19T17:58:47Z"
-title = "Components_"
+title = "Components"
 type = "page"
 [[blocks]]
 background_style = "Brand Color"
