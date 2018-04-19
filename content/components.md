@@ -35,9 +35,18 @@ heading = "Buttons Everywhere"
 image_position = "Left"
 template = "media-feature"
 [[blocks]]
+content = "## Pure Markdown Sections\n\nInsert markdown sections in between other block types for longer prose or just when you need the flexibility."
+template = "body-copy"
+[[blocks]]
 background_style = "Brand Color"
 heading = "Call To Action"
 image_position = "Left"
 template = "media-feature"
+[[blocks]]
+button_text = "View on Github"
+button_url = "https://github.com/dwalkr/sawmill"
+heading = "More to Come"
+subheading = "Suggest more blocks or send us a PR"
+template = "call-to-action"
 
 +++
