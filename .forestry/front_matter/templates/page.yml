@@ -1,7 +1,7 @@
 ---
 pages:
-- components.md
 - _index.md
+- components.md
 hide_body: true
 is_partial: false
 fields:
