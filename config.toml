@@ -1,9 +1,8 @@
 baseURL = "https://dwalkr.github.io/sawmill/"
 languageCode = "en-us"
-title = "Sawmill"
 theme = "sawmill"
-
+title = "Sawmill"
 [Author]
-    name = "DJ Walker"
-[Params]
-    logo = "/logo.svg"
+name = "DJ Walker"
+[params]
+logo = "/logo.svg"
