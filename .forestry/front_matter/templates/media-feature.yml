@@ -1,7 +1,8 @@
 ---
-label: media-feature
+label: Media feature
 hide_body: true
 is_partial: true
+display_field: heading
 fields:
 - type: text
   name: heading

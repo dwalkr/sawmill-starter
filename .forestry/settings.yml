@@ -4,11 +4,6 @@ auto_deploy: true
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: README.md
-  label: Welcome
-- type: heading
-  label: Content
 - type: directory
   path: content
   label: Pages
@@ -16,7 +11,7 @@ sections:
   match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
-front_matter_path: ''
+front_matter_path: "/uploads"
 use_front_matter_path: false
 file_template: ":year:/:month:/:day:/:filename:"
 version: 0.38.1
