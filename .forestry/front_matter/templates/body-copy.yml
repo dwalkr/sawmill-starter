@@ -2,6 +2,7 @@
 label: Body copy
 hide_body: false
 is_partial: true
+display_field: content
 fields:
 - type: textarea
   name: content
