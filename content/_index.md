@@ -41,7 +41,7 @@ image_shadow = true
 template = "media-feature"
 [[blocks]]
 button_text = "View on Github"
-button_url = "https://github.com/dwalkr/sawmill"
+button_url = "https://github.com/forestryio/sawmill"
 heading = "Let's Get Started"
 template = "call-to-action"
 
