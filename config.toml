@@ -1,4 +1,4 @@
-baseURL = "https://dwalkr.github.io/sawmill/"
+baseURL = "https://forestryio.github.io/sawmill/"
 languageCode = "en-us"
 theme = "sawmill"
 title = "Sawmill"
@@ -6,7 +6,7 @@ title = "Sawmill"
 name = "DJ Walker"
 [[menu.main]]
 name = "View on Github"
-url = "https://github.com/dwalkr/sawmill"
+url = "https://github.com/forestryio/sawmill"
 weight = 10
 [params]
 logo = "/logo.svg"
